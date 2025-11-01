@@ -8,4 +8,4 @@ Este repositorio contieneel texto de El Quijote de la Mancha, en un fichero de t
 
 ## Recursos
 
-- [Texto original](https://www.cervantesvirtual.com/obra-visor/el-quijote)
+- [Texto original](https://www.cervantesvirtual.com/obra-visor/el-ingenioso-hidalgo-don-quijote-de-la-mancha-6/html/)
